@@ -41,15 +41,12 @@ The analysis focuses on understanding conversion rates, comparing means, running
 
 ## 📊 Key Results
 
-- **Group A Conversion Rate:** X% (replace with actual)
-- **Group B Conversion Rate:** Y% (replace with actual)
-- **p-value:** Z (replace with actual)
 
 **Outcome:**
 - If p-value < 0.05: Reject the null hypothesis — statistically significant difference detected.
 - If p-value >= 0.05: Fail to reject the null hypothesis — no statistically significant difference.
 
-📢 **Recommendation:** [Recommend adopting the new version if significant, otherwise suggest maintaining the control.]
+📢 **Recommendation:** Overall we are rejecting the null hypothesis however it depends on the variable you are trying to measure.  
 
 ---
 
